@@ -108,5 +108,5 @@ I'm looking to collaborate on GitHub and connect with experienced developers who
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Yuvraj2916&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuvraj2916&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117" alt="Top Languages" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuvraj2916&layout=compact&hide=c%2B%2B&theme=github_dark&hide_border=true&bg_color=0D1117" alt="Top Languages" height="170" />
 </p>
