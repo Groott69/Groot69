@@ -62,8 +62,19 @@ I'm looking to collaborate on GitHub and connect with experienced developers who
 
 ## 💻 Tech Stack
 
+<p align="center"><b>Frontend</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,c,cpp,html,css,js,react,fastapi,flask,mysql,mongodb,numpy,pandas,sklearn,pytorch,tensorflow,matplotlib,git,github,figma,aws,gcp,vercel&perline=8" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,js,css" alt="HTML, JavaScript, CSS" />
+</p>
+
+<p align="center"><b>Backend</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,mysql,c,cpp" alt="Python, SQL, C, C++" />
+</p>
+
+<p align="center"><b>Frameworks</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,flask,fastapi" alt="React, Flask, FastAPI" />
 </p>
 
 ---
@@ -98,12 +109,4 @@ I'm looking to collaborate on GitHub and connect with experienced developers who
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Yuvraj2916&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuvraj2916&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117" alt="Top Languages" height="170" />
-</p>
-
----
-
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yuvraj2916&theme=github-dark&hide_border=true&bg_color=0D1117&color=58a6ff&line=58a6ff&point=ffffff" alt="Activity Graph" width="100%" />
 </p>
