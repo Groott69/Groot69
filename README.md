@@ -83,18 +83,18 @@ I'm looking to collaborate on GitHub and connect with experienced developers who
 
 <p align="center">
   <a href="https://github.com/Yuvraj2916/Mockinterview-Ai">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yuvraj2916&repo=Mockinterview-Ai&theme=github_dark&hide_border=true&bg_color=0D1117" alt="Mockinterview-Ai" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yuvraj2916&repo=Mockinterview-Ai&theme=github_dark&bg_color=161B22&border_color=58A6FF&border_radius=10" alt="Mockinterview-Ai" />
   </a>
   <a href="https://github.com/Yuvraj2916/Expense-Tracker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yuvraj2916&repo=Expense-Tracker&theme=github_dark&hide_border=true&bg_color=0D1117" alt="Expense-Tracker" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yuvraj2916&repo=Expense-Tracker&theme=github_dark&bg_color=161B22&border_color=58A6FF&border_radius=10" alt="Expense-Tracker" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/Yuvraj2916/Hackerrank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yuvraj2916&repo=Hackerrank&theme=github_dark&hide_border=true&bg_color=0D1117" alt="Hackerrank" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yuvraj2916&repo=Hackerrank&theme=github_dark&bg_color=161B22&border_color=58A6FF&border_radius=10" alt="Hackerrank" />
   </a>
   <a href="https://github.com/Yuvraj2916/LeetCode-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yuvraj2916&repo=LeetCode-&theme=github_dark&hide_border=true&bg_color=0D1117" alt="LeetCode" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yuvraj2916&repo=LeetCode-&theme=github_dark&bg_color=161B22&border_color=58A6FF&border_radius=10" alt="LeetCode" />
   </a>
 </p>
 
